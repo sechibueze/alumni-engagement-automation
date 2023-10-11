@@ -1,0 +1,5 @@
+# Do not commit to git
+node_modules
+.env
+dist/
+service-account.json
